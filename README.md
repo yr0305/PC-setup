@@ -18,7 +18,7 @@
 * **PowerToys로 CapsLock / PrintScreen 비활성화 상세**:
   * PowerToys 실행 > Keyboard Manager 메뉴 진입
   * '키 재매핑(Remap a key)' 클릭
-  * `+` 클릭 > 물리적 키 `CapsLock` -> 매핑할 키 `Undefined` 선택
+  * `+` 클릭 > 물리적 키 `CapsLock` -> 매핑할 키 `backspace` 선택
   * `+` 클릭 > 물리적 키 `PrintScreen` -> 매핑할 키 `Undefined` 선택
   * 오른쪽 상단 '확인' 클릭
 
